@@ -2,8 +2,8 @@
 layout: single
 author_profile: false
 header:
-  image: /images/home_header.jpg
-  caption: "*Sixty-lake Basin, Kings Canyon NP, California*"
+  image: /images/hurricane_deck.jpg
+  caption: "*Los Padres National Forest, California*"
 permalink: /people/
 ---
 

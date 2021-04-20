@@ -2,25 +2,25 @@
 layout: splash
 author_profile: false
 header:
-  image: /images/home_header.jpg
-  caption: "*Eightmile Lake, Washington*"
+  image: /images/green_salamander.jpg
+  caption: "*Green Salamander (Aneides aeneus), Obed River, Tennessee*"
 permalink: /research/
 feature_row:
-  - image_path: coinfect.jpg
+  - image_path: images/shiny_rana.jpg
     #title:
-    excerpt: "Models of Host-Pathogen Dynamics"
+    excerpt: "Disease dynamics of amphibians"
     url: /research/host-pathogen-dynamics
     btn_label: "Read More"
     btn_class: "btn--inverse"
   - image_path: DFTM.jpg
     #title:
-    excerpt: "Forecasting Disease for Biocontrol"
+    excerpt: "Hot hosts, hot species, and hot spots"
     url: /research/pest-control
     btn_label: "Read More"
     btn_class: "btn--inverse"
-  - image_path: metacom.jpg
+  - image_path: images/network.png
     #title:
-    excerpt: "Community Ecology of Microbes"
+    excerpt: "Statistical methods for disease ecology"
     url: /research/symbiont-metacommunities
     btn_label: "Read More"
     btn_class: "btn--inverse"

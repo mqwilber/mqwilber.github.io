@@ -2,20 +2,22 @@
 layout: single
 author_profile: false
 header:
-  image: /images/home_header.jpg
-  caption: "*Sixty-lake Basin, Kings Canyon NP, California*"
+  image: /images/new_mexico.jpg
+  caption: "*Ghost Ranch, New Mexico*"
 permalink: /publications/
 ---
 
 ## Publications
 
-- Valenzuela-Sánchez, A., Wilber, M. Q., Canessa, S., Bacigalupe, L., Muths, Erin, Schmidt, Benedikt, Cunningham, A., Ozgul, A., Johnson, P., Cayuela, H. 2021. Why disease ecology needs life-history theory: a host perspective. *Ecology Letters*, In press [link](https://onlinelibrary.wiley.com/doi/full/10.1111/ele.13681)
+- Tompros, A., Dean, A. D., Fenton, A., Wilber, M. Q., Carter, E. D., Gray, M. J. Frequency‐dependent transmission of *Batrachochytrium salamandrivorans* in eastern newts. *Transboundary and Emerging Disease*, In Press [link](https://onlinelibrary.wiley.com/doi/full/10.1111/tbed.14043)
 
-- Pepin, K. M., Miller, R. S., Wilber, M. Q. 2021. A framework for surveillance of emerging pathogens at the human-animal interface: pigs and coronaviruses as a case study. *Preventative Veterinary Medicine*, In press [link](https://www.sciencedirect.com/science/article/pii/S0167587721000258)
+- Valenzuela-Sánchez, A., Wilber, M. Q., Canessa, S., Bacigalupe, L., Muths, Erin, Schmidt, Benedikt, Cunningham, A., Ozgul, A., Johnson, P., Cayuela, H. 2021. Why disease ecology needs life-history theory: a host perspective. *Ecology Letters*, 24, 876-890 [link](https://onlinelibrary.wiley.com/doi/full/10.1111/ele.13681)
 
-- Wilber, M. Q., Carter, E. D., Gray, M. J., Briggs, C. J. 2021. Putative resistance and tolerance mechanisms have little impact on disease progression for an emerging salamander pathogen. *Functional Ecology*, In press [link](https://besjournals.onlinelibrary.wiley.com/doi/10.1111/1365-2435.13754)
+- Pepin, K. M., Miller, R. S., Wilber, M. Q. 2021. A framework for surveillance of emerging pathogens at the human-animal interface: pigs and coronaviruses as a case study. *Preventative Veterinary Medicine*, 188, 105281 [link](https://www.sciencedirect.com/science/article/pii/S0167587721000258)
 
-- Yang, A., Schlichting, P., Wight, B., Anderson, W.. Chinn, S.; Wilber, M., Miller, R., Beasley, J.; Boughton, Raoul, Vercauteren, K., Wittemyer, G., Pepin, K. 2021.  Effects of social structure and management on risk of disease establishment in wild pigs. *Journal of Animal Ecology*, In press [link](https://besjournals.onlinelibrary.wiley.com/doi/abs/10.1111/1365-2656.13412)
+- Wilber, M. Q., Carter, E. D., Gray, M. J., Briggs, C. J. 2021. Putative resistance and tolerance mechanisms have little impact on disease progression for an emerging salamander pathogen. *Functional Ecology*, 35, 847-859 [link](https://besjournals.onlinelibrary.wiley.com/doi/10.1111/1365-2435.13754)
+
+- Yang, A., Schlichting, P., Wight, B., Anderson, W.. Chinn, S.; Wilber, M., Miller, R., Beasley, J.; Boughton, Raoul, Vercauteren, K., Wittemyer, G., Pepin, K. 2021.  Effects of social structure and management on risk of disease establishment in wild pigs. *Journal of Animal Ecology*, 90, 820-833 [link](https://besjournals.onlinelibrary.wiley.com/doi/abs/10.1111/1365-2656.13412)
 
 - Wilber, M. Q., Briggs, C. J, Johnson, P. T. J. 2020. Disease's hidden death toll: Using parasite aggregation patterns to quantify landscape-level host mortality in a wildlife system. *Journal of Animal Ecology*, 89, 2876-2887 [link](https://besjournals.onlinelibrary.wiley.com/doi/10.1111/1365-2656.13343)
 
