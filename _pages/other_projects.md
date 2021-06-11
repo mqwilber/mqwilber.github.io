@@ -1,7 +1,7 @@
 ---
 layout: single
 author_profile: false
-permalink: /research/hot-spots
+permalink: /research/other-projects
 ---
 
 # Hot spots

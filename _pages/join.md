@@ -12,7 +12,7 @@ permalink: /join/
 
 ## Prospective Graduate Students
 
-I encourage you to read some of the [lab's work](/publications/) to get a sense of what we do.  I expect my graduate student's research to have some focus on quantitative aspects of disease ecology related to mathematical modeling.  However, I also encourage my students to explore field work and laboratory experiments to complement, motivate, and expand their modeling approaches.  While much of my previous work has focused on amphibian-parasite interactions, I am broadly interested in host-parasite dynamics and disease ecology more generally. I encourage interested students with research interests in disease ecology outside of amphibian-disease systems to <href>contact me at <a href="mwilber@utk.edu">mwilber@utk.edu</a>.
+I encourage you to read some of the [lab's work](/publications/) to get a sense of what we do.  I expect my graduate student's research to have some focus on quantitative aspects of disease ecology related to mathematical modeling.  However, I also encourage my students to explore field work and laboratory experiments to complement, motivate, and expand their modeling approaches.  While much of my previous work has focused on amphibian-parasite interactions, I am broadly interested in host-parasite dynamics and disease ecology more generally. I encourage students with research interests in theoretical and quantitative disease ecology outside of amphibian-disease systems to <href>contact me at <a href="mwilber@utk.edu">mwilber@utk.edu</a>.
 
 ## Prospective Undergraduate Researchers
 
@@ -35,6 +35,7 @@ Here is what graduate students in my lab can expect from me
 1. I will treat your scientific ideas with respect. This does not mean that I will not question and critique your ideas (as I expect you to question and critique my ideas), but I will do so with collegiality and from a place of respect for you as a scientist and person.
 1. I will provide timely feedback on research, writing, talks, and other professional activities.
 1. I will meet with you at least once a week to discuss research, life, or whatever else is on your mind.
+1. I will provide you with networking opportunities and, when possible given funding, financial support.
 
 
 
