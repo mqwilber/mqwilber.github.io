@@ -4,8 +4,9 @@ author_profile: true
 header:
   image: /images/home_header.jpg
   caption: "*Sixty-lake Basin, Kings Canyon NP, California*"
-tags:
-  - disease ecology
+# tags:
+#   - University of Tennessee Institute of Agriculture
+#   - Department of Forestry Wildlife and Fisheries
 ---
 
 The ultimate goal of our research group is to improve our ability to predict and mitigate the negative impacts of pathogens on wildlife populations. To this end, we are interested in how hot hosts, hot species, and hotspots affect pathogen invasion and persistence. We combine novel statistical and mathematical modeling approaches with laboratory experiments and field data to identify how heterogeneity at the scale of the individual host to the landscape affects disease dynamics.  By unraveling the contributions of heterogeneity across biological scales, we seek to obtain actionable predictions through a mechanistic understanding of host-parasite interactions.  While our research spans a range of wildlife systems, we often address our research questions using amphibians and their parasites.
