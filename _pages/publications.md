@@ -6,9 +6,8 @@ header:
   image: /images/new_mexico.jpg
   caption: "*Ghost Ranch, New Mexico*"
 permalink: /publications/
+title: "Publications"
 ---
-
-## Publications
 
 **2021**
 

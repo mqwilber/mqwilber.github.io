@@ -3,9 +3,8 @@ layout: single
 classes: wide
 author_profile: false
 permalink: /research/hot-spots
+title: "The effects of landscape heterogeneity on disease dynamics"
 ---
-
-# The effects of landscape heterogeneity on disease dynamics
 
 ## What is it and why do we care?
 

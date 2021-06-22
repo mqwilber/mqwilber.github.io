@@ -5,6 +5,7 @@ header:
   image: /images/hurricane_deck.jpg
   caption: "*Los Padres National Forest, California*"
 permalink: /people/
+title: "People"
 ---
 
 ## Principal Investigator
