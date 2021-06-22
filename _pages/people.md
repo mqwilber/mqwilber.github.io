@@ -11,8 +11,7 @@ permalink: /people/
 
 ### Mark Wilber, PhD
 <figure>
-  <img src="/images/mark-wilber-pic.jpg">
-  <!-- style="float:left;width:240px;height:250px" -->
+  <img src="/images/mark-wilber-pic.jpg" style="float:left;width:240px">
 </figure>
 
 **Contact Info:**

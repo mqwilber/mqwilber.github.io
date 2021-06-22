@@ -1,14 +1,19 @@
 ---
 layout: single
+classes: wide
 author_profile: false
 permalink: /join/
 ---
 
-## Current Opportunities
+<!-- ## Current Opportunities -->
 
-<!-- 1. I am currently recruiting a post-doctoral researcher in quantitative ecology.  A link to the job application can be found <a href="https://ut.taleo.net/careersection/ut_system/jobdetail.ftl?job=210000006Q">here</a>.  If you have any questions, please contact me at <a href="mwilber@utk.edu">mwilber@utk.edu</a>.
+<!-- - We are currently looking for a post-doctoral researcher in quantitative disease ecology.  The post-doctoral researcher will be developing, testing, and applying models of spatial disease dynamics to understand the invasion, spread, and persistence of chronic wasting disease. The post-doc will also be developing a novel framework for linking movement ecology and spatial disease dynamics. If you have any questions, please contact me at <a href="mwilber@utk.edu">mwilber@utk.edu</a>. -->
 
-2. I am currently recruiting a graduate student at the PhD level that is interested in combining field work and mathematical modeling of disease dynamics. Two possible research opportunities for the graduate student are i) how do seasonality and ecological interactions affect the reservoir potential of amphibian species infected with chytrid fungus? and ii) how does individual heterogeneity in amphibian movement shape the contribution of direct and indirect transmission to endemic pathogen persistence?  If these opportunities sound interesting to you, I encourage you to read some of the [lab's work](/publications/) to get a sense of what we do. If you have any questions, please contact me at <a href="mwilber@utk.edu">mwilber@utk.edu</a>. -->
+<!-- - We are currently recruiting a graduate student at the PhD level as part of a new [Biological Integration Institute](https://www.nsf.gov/funding/pgm_summ.jsp?pims_id=505684) focused on resilience in infectious disease systems.  The PhD student's research will be a key component of the institute, developing mathematical and statistical models that integrate ecological and evolutionary data to unravel the mechanisms of resilience underlying amphibian populations' responses to the invasion of infectious disease. Interested students should have a keen interest in developing skills for quantitative modeling in ecological systems (both statistical and mathematical) and interfacing these models with commonly-collected ecological data. If interested, please contact me at <a href="mwilber@utk.edu">mwilber@utk.edu</a> providing i) a brief statement of your interest and ii) your most recent CV highlighting any previous quantitative course work (e.g., calculus, statistics, population modeling, etc.) -->
+
+## Prospective Post-docs
+
+I am happy to collaborate with post-doctoral researchers to develop proposals pertaining to quantitative disease ecology and wildlife health.
 
 ## Prospective Graduate Students
 
@@ -35,7 +40,7 @@ Here is what graduate students in my lab can expect from me
 1. I will treat your scientific ideas with respect. This does not mean that I will not question and critique your ideas (as I expect you to question and critique my ideas), but I will do so with collegiality and from a place of respect for you as a scientist and person.
 1. I will provide timely feedback on research, writing, talks, and other professional activities.
 1. I will meet with you at least once a week to discuss research, life, or whatever else is on your mind.
-1. I will provide you with networking opportunities and, when possible given funding, financial support.
+1. I will provide you with networking opportunities and, when possible, financial support.
 
 
 

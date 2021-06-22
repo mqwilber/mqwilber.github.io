@@ -28,6 +28,8 @@ feature_row:
 
 ## Research Topics
 
+We combine novel mathematical models, cutting-edge statistics, field data, and laboratory experiments to unravel the contribution of heterogeneity across biological scales to disease dynamics.
+
 {% include feature_row %}
 <!--
 ## Research Topics
