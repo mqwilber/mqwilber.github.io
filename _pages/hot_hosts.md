@@ -3,9 +3,10 @@ layout: single
 classes: wide
 author_profile: false
 permalink: /research/hot-hosts
+title: "The effects of individual-level heterogeneity on disease dynamics"
 ---
 
-# The effects of individual-level heterogeneity on disease dynamics
+<!-- # The effects of individual-level heterogeneity on disease dynamics -->
 
 ## What is it and why do we care?
 
