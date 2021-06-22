@@ -6,8 +6,6 @@ permalink: /research/hot-hosts
 title: "The effects of individual-level heterogeneity on disease dynamics"
 ---
 
-<!-- # The effects of individual-level heterogeneity on disease dynamics -->
-
 ## What is it and why do we care?
 
 Brace yourself for a shocker...individual hosts within a population are different! In the age of COVID-19, we are all intimately familiar with these differences, captured in terms like "superspreader" -- an individual that disproportionately contributes to transmission events within a population.   Identifying the causes and consequences of individual-level heterogeneity in host contact rates, parasite shedding rates, or host dispersal rates can help us better predict and manage disease dynamics.
