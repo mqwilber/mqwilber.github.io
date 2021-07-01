@@ -25,20 +25,20 @@ Office: 51D McCord Hall, 2640 Morgan Circle Drive\
 Phone: 865-974-8091\
 Email: mwilber@utk.edu
 
+## Graduate Students
 
-<!-- ## Graduate Students
-
-### Kelsey Banister (M.S. Student [SICCS] and Research Technician)
+### Joe DeMarchi (PhD Student)
 
 <figure>
-  <img src="/images/Kelsey_Banister_sm.jpg" style="align:left">
+  <img src="/images/joe_demarchi.tif" style="align:left;width:240px">
 </figure>
 
-Kelsey is a Research Technician and Informatics Masters student, with a Bachelors of Science in Microbiology from Northern Arizona University.  Excited by complex pathogen systems and emerging diseases, Kelsey's current research interests are focused on Ranavirus genetics and genomics, pathogen detection across Arizona, disease modeling, and genetic epidemiology. Her previous laboratory experiences have involved studying mating systems and population genetics of various invertebrate species.
+I am broadly interested in incorporating complex host-parasite interactions into our general understanding of infectious disease. In particular, my research will investigate host-parasite community dynamics specifically how host identity, communities and landscapes can shape disease outcomes. I hope to incorporate heterogeneity among species and landscapes in multi-host communities to predict areas of disease emergence
 
-Email: kelsey.banister@nau.edu
+Email: jdemarch@utk.edu
 
-### Kathryn Cooney (M.S. Student [Biology])
+
+<!-- ### Kathryn Cooney (M.S. Student [Biology])
 
 <figure>
   <img src="/images/Kathryn_Cooney_sm.jpg" style="align:left">
