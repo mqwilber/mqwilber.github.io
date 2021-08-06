@@ -11,6 +11,8 @@ title: "Publications"
 
 **2021**
 
+- Wilber, M. Q., Pfab, Ferdinand, Ohmer, M. E., Briggs, C. J. Integrating infection intensity into within- and between-host pathogen dynamics: implications for invasion and virulence evolution. *The American Naturalist*, In press
+
 - Towe, A., Gray, M. J., Carter, E. D., Wilber, M. Q., Ossiboff, R. J., Ash, K.; Bohanon, M.; Bajo, B. A., Miller, D. L. 2021. *Batrachochytrium salamandrivorans* can devour more than salamanders. *Journal of Wildlife Diseases*, In press
 
 - Tompros, A., Dean, A. D., Fenton, A., Wilber, M. Q., Carter, E. D., Gray, M. J. Frequency‐dependent transmission of *Batrachochytrium salamandrivorans* in eastern newts. *Transboundary and Emerging Disease*, In Press [link](https://onlinelibrary.wiley.com/doi/full/10.1111/tbed.14043)
