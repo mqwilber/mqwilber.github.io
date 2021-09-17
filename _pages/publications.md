@@ -15,7 +15,7 @@ title: "Publications"
 
 - Towe, A., Gray, M. J., Carter, E. D., Wilber, M. Q., Ossiboff, R. J., Ash, K.; Bohanon, M.; Bajo, B. A., Miller, D. L. 2021. *Batrachochytrium salamandrivorans* can devour more than salamanders. *Journal of Wildlife Diseases*, In press
 
-- Tompros, A., Dean, A. D., Fenton, A., Wilber, M. Q., Carter, E. D., Gray, M. J. Frequency‐dependent transmission of *Batrachochytrium salamandrivorans* in eastern newts. *Transboundary and Emerging Disease*, In Press [link](https://onlinelibrary.wiley.com/doi/full/10.1111/tbed.14043)
+- Tompros, A., Dean, A. D., Fenton, A., Wilber, M. Q., Carter, E. D., Gray, M. J. Frequency‐dependent transmission of *Batrachochytrium salamandrivorans* in eastern newts. *Transboundary and Emerging Disease*, In press [link](https://onlinelibrary.wiley.com/doi/full/10.1111/tbed.14043)
 
 - Valenzuela-Sánchez, A., Wilber, M. Q., Canessa, S., Bacigalupe, L., Muths, Erin, Schmidt, Benedikt, Cunningham, A., Ozgul, A., Johnson, P., Cayuela, H. 2021. Why disease ecology needs life-history theory: a host perspective. *Ecology Letters*, 24, 876-890 [link](https://onlinelibrary.wiley.com/doi/full/10.1111/ele.13681)
 
