@@ -9,11 +9,15 @@ permalink: /publications/
 title: "Publications"
 ---
 
+**2022**
+
+- Wilber M. Q., Yang, A., Boughton, R., Manlove, K. R., Miller, R. S., Pepin, K. M., Wittemyer, G. A model for leveraging animal movement to understand spatio-temporal disease dynamics. *Ecology Letters*, In press
+
 **2021**
 
-- Wilber, M. Q., Pfab, Ferdinand, Ohmer, M. E., Briggs, C. J. Integrating infection intensity into within- and between-host pathogen dynamics: implications for invasion and virulence evolution. *The American Naturalist*, In press [link](https://www.journals.uchicago.edu/doi/abs/10.1086/716914?journalCode=an)
+- Wilber, M. Q., Pfab, Ferdinand, Ohmer, M. E., Briggs, C. J. Integrating infection intensity into within- and between-host pathogen dynamics: implications for invasion and virulence evolution. *The American Naturalist*, 198, 661-677 [link](https://www.journals.uchicago.edu/doi/abs/10.1086/716914?journalCode=an)
 
-- Towe, A., Gray, M. J., Carter, E. D., Wilber, M. Q., Ossiboff, R. J., Ash, K.; Bohanon, M.; Bajo, B. A., Miller, D. L. 2021. *Batrachochytrium salamandrivorans* can devour more than salamanders. *Journal of Wildlife Diseases*, In press
+- Towe, A., Gray, M. J., Carter, E. D., Wilber, M. Q., Ossiboff, R. J., Ash, K.; Bohanon, M.; Bajo, B. A., Miller, D. L. 2021. *Batrachochytrium salamandrivorans* can devour more than salamanders. *Journal of Wildlife Diseases*, 57, 942-948 [link](https://bioone.org/journals/journal-of-wildlife-diseases/volume-57/issue-4/JWD-D-20-00214/Batrachochytrium-salamandrivorans-can-Devour-more-than-Salamanders/10.7589/JWD-D-20-00214.short)
 
 - Tompros, A., Dean, A. D., Fenton, A., Wilber, M. Q., Carter, E. D., Gray, M. J. Frequency‐dependent transmission of *Batrachochytrium salamandrivorans* in eastern newts. *Transboundary and Emerging Disease*, In press [link](https://onlinelibrary.wiley.com/doi/full/10.1111/tbed.14043)
 
