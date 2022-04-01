@@ -11,7 +11,7 @@ title: "Publications"
 
 **2022**
 
-- Wilber, M. Q., Ohmer, M. E. B., Altman, K. A.,  Brannelly, L. A.,  LeSage, E. H., LaBumbard, B. C.,  McDonnell, N. B.,  Muñiz Torres, A. Y.,  Nordheim, C. L., Pfab, F., Richards-Zawacki, C. L., Rollins-Smith, L. A.,  Saenz, V.,  Voyles, J., Wetzel, D. P., Woodhams, D. C., and Briggs, Cheryl J.  Once a reservoir, always a reservoir? Seasonality affects the pathogen maintenance potential of amphibian hosts. Accepted at \emph{Ecology}
+- Wilber, M. Q., Ohmer, M. E. B., Altman, K. A.,  Brannelly, L. A.,  LeSage, E. H., LaBumbard, B. C.,  McDonnell, N. B.,  Muñiz Torres, A. Y.,  Nordheim, C. L., Pfab, F., Richards-Zawacki, C. L., Rollins-Smith, L. A.,  Saenz, V.,  Voyles, J., Wetzel, D. P., Woodhams, D. C., and Briggs, Cheryl J.  Once a reservoir, always a reservoir? Seasonality affects the pathogen maintenance potential of amphibian hosts. Accepted at *Ecology*
 
 - Wilber, M. Q., Yang, A., Boughton, R., Manlove, K. R., Miller, R. S., Pepin, K. M., Wittemyer, G. A model for leveraging animal movement to understand spatio-temporal disease dynamics. *Ecology Letters*, [In press](https://onlinelibrary.wiley.com/doi/10.1111/ele.13986?af=R)
 
