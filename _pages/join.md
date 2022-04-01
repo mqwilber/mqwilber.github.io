@@ -32,7 +32,7 @@ As a graduate student (particularly a PhD student), you are training to become a
 Here is what I expect from graduate students in my lab
 
 1. I expect all of my graduate students to treat other members of the lab, department, and community with kindness, inclusivity, and collegiality
-1. I expect a solid work ethic and resilience in the face of failure and criticism. A PhD is hard work and, spoiler alter, you will "fail" and your work will be criticized. And that is OK! Failure and criticism is an important part of the scientific process and it makes our work better. I expect (and will help you toward) resilience and positivity in the face of failure.
+1. I expect a solid work ethic and resilience in the face of failure and criticism. A PhD is hard work and, spoiler alert, you will "fail" and your work will be criticized. And that is OK! Failure and criticism is an important part of the scientific process and it makes our work better. I expect (and will help you toward) resilience and positivity in the face of failure.
 1. I expect independent thinking. I want to hear your ideas and I want you to build confidence sharing those ideas with the broader scientific community.
 1. I except you to take time for yourself. A PhD is hard work and requires substantial commitment. But no one does their best work with their nose to the grindstone 24-7.  Take time for you, and your science will thank you for it.
 
