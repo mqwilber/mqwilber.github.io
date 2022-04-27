@@ -5,7 +5,7 @@ author_profile: false
 permalink: /join/
 ---
 
-## Current Opportunities
+<!-- ## Current Opportunities -->
 
 <!-- - We are currently looking for a post-doctoral researcher in quantitative disease ecology.  The post-doctoral researcher will be developing, testing, and applying models of spatial disease dynamics to understand the invasion, spread, and persistence of chronic wasting disease. The post-doc will also be developing a novel framework for linking movement ecology and spatial disease dynamics. If you have any questions, please contact me at <a href="mwilber@utk.edu">mwilber@utk.edu</a>. -->
 
