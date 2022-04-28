@@ -15,7 +15,7 @@ Our lab group is part of the [RIBBiTR](https://ribbitr.com/) Biology Integration
 
 ## News
 
-- Don't forget that May 1 - May 7, 2022 is Amphibian Week! Check out the [amazing resources provides](https://parcplace.org/species/amphibian-week-2022/) by Partners in Amphibian and Reptile Conservation (PARC).
+- Don't forget that May 1 - May 7, 2022 is Amphibian Week! Check out the [amazing resources provided](https://parcplace.org/species/amphibian-week-2022/) by Partners in Amphibian and Reptile Conservation (PARC).
 
 <!-- Our lab explores the causes and consequences of hot hosts, hot species, and hotspots in disease systems. We combine laboratory experiments, field data, and mathematical models to examine how these different scales of disease "hotness" interact to affect pathogen invasion and persistence. The ultimate goal of our research is to improve our ability to predict and mitigate the negative impacts of pathogens on wildlife populations. -->
 
