@@ -13,7 +13,7 @@ title: "Publications"
 
 - Wilber, M. Q., DeMarchi, J., Fefferman, N. H., Silk, M. J. High prevalence does not necessarily equal maintenance species: Avoiding biased claims of disease reservoirs when using surveillance data. Accepted at *Journal of Animal Ecology*
 
-- Manlove, K. R., Wilber, M. Q., White, L., Bastille-Rousseau, G., Yang, A., Gilbertson, M. L. J., Craft, M. E., Cross, P. C., Wittemyer, G, Pepin, K. M. Defining an epidemiological landscape that connects movement ecology to pathogen transmission and pace-of-life. Accepted at *Ecology Letters*
+- Manlove, K. R., Wilber, M. Q., White, L., Bastille-Rousseau, G., Yang, A., Gilbertson, M. L. J., Craft, M. E., Cross, P. C., Wittemyer, G, Pepin, K. M. Defining an epidemiological landscape that connects movement ecology to pathogen transmission and pace-of-life. Accepted at *Ecology Letters* [link](https://onlinelibrary.wiley.com/doi/full/10.1111/ele.14032)
 
 - Wilber, M. Q., Ohmer, M. E. B., Altman, K. A.,  Brannelly, L. A.,  LeSage, E. H., LaBumbard, B. C.,  McDonnell, N. B.,  Muñiz Torres, A. Y.,  Nordheim, C. L., Pfab, F., Richards-Zawacki, C. L., Rollins-Smith, L. A.,  Saenz, V.,  Voyles, J., Wetzel, D. P., Woodhams, D. C., and Briggs, Cheryl J. 2022.  Once a reservoir, always a reservoir? Seasonality affects the pathogen maintenance potential of amphibian hosts. Accepted at *Ecology* [link](https://esajournals.onlinelibrary.wiley.com/doi/abs/10.1002/ecy.3759)
 
