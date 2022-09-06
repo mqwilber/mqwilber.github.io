@@ -37,6 +37,16 @@ I am broadly interested in incorporating complex host-parasite interactions into
 
 Email: jdemarch@utk.edu
 
+### Sarah Schrock (Masters Student)
+
+<figure>
+  <img src="/images/sarah_schrock.jpg" style="align:left;width:240px">
+</figure>
+
+I have a BS in Biology from Olivet Nazarene University and an MS in Epidemiology from the University of Colorado. I worked for a couple of years as an epidemiologist at a hospital in Denver and later at the New Mexico Department of Health. For several years, I have been interested in shifting my career from public health to wildlife, focusing on disease ecology. In the summer of 2021, I had the pleasure of working on a statewide assessment of alligator snapping turtles with the University of Houston. Since then, I’ve been working as an assistant keeper at Zoo Knoxville. I am honored to be joining UT’s FWF Department and having the opportunity to study the fungal pathogen *Batrachochytrium dendrobatidis* (Bd) in amphibian species. My research will combine fieldwork and mathematical modeling to better understand the factors influencing long-term Bd persistence in amphibian species in eastern Tennessee. 
+
+Email: sschroc2@vols.utk.edu
+
 
 <!-- ### Kathryn Cooney (M.S. Student [Biology])
 
