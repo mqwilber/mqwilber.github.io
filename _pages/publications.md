@@ -11,11 +11,15 @@ title: "Publications"
 
 **2022**
 
-- Wilber, M. Q., DeMarchi, J., Fefferman, N. H., Silk, M. J. High prevalence does not necessarily equal maintenance species: Avoiding biased claims of disease reservoirs when using surveillance data. Accepted at *Journal of Animal Ecology*
+- Olson, D. H., Gray, M. J., Pasmans, F., Grayer, L., Wilber, M. Q., Carter, E., D., Cunningham, A. A. 2022. The rising tide of herpetological disease science and management. *Herpetological Review*, in press
 
-- Manlove, K. R., Wilber, M. Q., White, L., Bastille-Rousseau, G., Yang, A., Gilbertson, M. L. J., Craft, M. E., Cross, P. C., Wittemyer, G, Pepin, K. M. Defining an epidemiological landscape that connects movement ecology to pathogen transmission and pace-of-life. Accepted at *Ecology Letters* [link](https://onlinelibrary.wiley.com/doi/full/10.1111/ele.14032)
+- Silk, M. J., Wilber, M. Q., Fefferman, N. H.  Capturing complex interactions in disease ecology with simplicial sets. 2022. *Ecology Letters*, in press [link](https://onlinelibrary.wiley.com/doi/10.1111/ele.14079) 
 
-- Wilber, M. Q., Ohmer, M. E. B., Altman, K. A.,  Brannelly, L. A.,  LeSage, E. H., LaBumbard, B. C.,  McDonnell, N. B.,  Muñiz Torres, A. Y.,  Nordheim, C. L., Pfab, F., Richards-Zawacki, C. L., Rollins-Smith, L. A.,  Saenz, V.,  Voyles, J., Wetzel, D. P., Woodhams, D. C., and Briggs, Cheryl J. 2022.  Once a reservoir, always a reservoir? Seasonality affects the pathogen maintenance potential of amphibian hosts. Accepted at *Ecology* [link](https://esajournals.onlinelibrary.wiley.com/doi/abs/10.1002/ecy.3759)
+- Wilber, M. Q., DeMarchi, J., Fefferman, N. H., Silk, M. J. 2022. High prevalence does not necessarily equal maintenance species: Avoiding biased claims of disease reservoirs when using surveillance data. *Journal of Animal Ecology*, 103, e3759 [link](https://esajournals.onlinelibrary.wiley.com/doi/abs/10.1002/ecy.3759)
+
+- Manlove, K. R., Wilber, M. Q., White, L., Bastille-Rousseau, G., Yang, A., Gilbertson, M. L. J., Craft, M. E., Cross, P. C., Wittemyer, G, Pepin, K. M. 2022. Defining an epidemiological landscape that connects movement ecology to pathogen transmission and pace-of-life. *Ecology Letters*, 25, 1760-1782 [link](https://onlinelibrary.wiley.com/doi/full/10.1111/ele.14032)
+
+- Wilber, M. Q., Ohmer, M. E. B., Altman, K. A.,  Brannelly, L. A.,  LeSage, E. H., LaBumbard, B. C.,  McDonnell, N. B.,  Muñiz Torres, A. Y.,  Nordheim, C. L., Pfab, F., Richards-Zawacki, C. L., Rollins-Smith, L. A.,  Saenz, V.,  Voyles, J., Wetzel, D. P., Woodhams, D. C., and Briggs, Cheryl J. 2022.  Once a reservoir, always a reservoir? Seasonality affects the pathogen maintenance potential of amphibian hosts. *Ecology*, 103, e3759 [link](https://esajournals.onlinelibrary.wiley.com/doi/abs/10.1002/ecy.3759)
 
 - Wilber, M. Q., Yang, A., Boughton, R., Manlove, K. R., Miller, R. S., Pepin, K. M., Wittemyer, G. 2022. A model for leveraging animal movement to understand spatio-temporal disease dynamics. *Ecology Letters*, 25, 1290-1304 [link](https://onlinelibrary.wiley.com/doi/abs/10.1111/ele.13986)
 
