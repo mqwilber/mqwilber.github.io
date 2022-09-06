@@ -11,19 +11,25 @@ title: "Publications"
 
 **2022**
 
-- Manlove, K. R., Wilber, M. Q., White, L., Bastille-Rousseau, G., Yang, A., Gilbertson, M. L. J., Craft, M. E., Cross, P. C., Wittemyer, G, Pepin, K. M. Defining an epidemiological landscape that connects movement ecology to pathogen transmission and pace-of-life. Accepted at *Ecology Letters*
+- Olson, D. H., Gray, M. J., Pasmans, F., Grayer, L., Wilber, M. Q., Carter, E., D., Cunningham, A. A. 2022. The rising tide of herpetological disease science and management. *Herpetological Review*, in press
 
-- Wilber, M. Q., Ohmer, M. E. B., Altman, K. A.,  Brannelly, L. A.,  LeSage, E. H., LaBumbard, B. C.,  McDonnell, N. B.,  Muñiz Torres, A. Y.,  Nordheim, C. L., Pfab, F., Richards-Zawacki, C. L., Rollins-Smith, L. A.,  Saenz, V.,  Voyles, J., Wetzel, D. P., Woodhams, D. C., and Briggs, Cheryl J.  Once a reservoir, always a reservoir? Seasonality affects the pathogen maintenance potential of amphibian hosts. Accepted at *Ecology*
+- Silk, M. J., Wilber, M. Q., Fefferman, N. H.  Capturing complex interactions in disease ecology with simplicial sets. 2022. *Ecology Letters*, in press [link](https://onlinelibrary.wiley.com/doi/10.1111/ele.14079) 
 
-- Wilber, M. Q., Yang, A., Boughton, R., Manlove, K. R., Miller, R. S., Pepin, K. M., Wittemyer, G. A model for leveraging animal movement to understand spatio-temporal disease dynamics. *Ecology Letters*, 25, 1290-1304 [link](https://onlinelibrary.wiley.com/doi/abs/10.1111/ele.13986)
+- Wilber, M. Q., DeMarchi, J., Fefferman, N. H., Silk, M. J. 2022. High prevalence does not necessarily equal maintenance species: Avoiding biased claims of disease reservoirs when using surveillance data. *Journal of Animal Ecology*, 103, e3759 [link](https://esajournals.onlinelibrary.wiley.com/doi/abs/10.1002/ecy.3759)
+
+- Manlove, K. R., Wilber, M. Q., White, L., Bastille-Rousseau, G., Yang, A., Gilbertson, M. L. J., Craft, M. E., Cross, P. C., Wittemyer, G, Pepin, K. M. 2022. Defining an epidemiological landscape that connects movement ecology to pathogen transmission and pace-of-life. *Ecology Letters*, 25, 1760-1782 [link](https://onlinelibrary.wiley.com/doi/full/10.1111/ele.14032)
+
+- Wilber, M. Q., Ohmer, M. E. B., Altman, K. A.,  Brannelly, L. A.,  LeSage, E. H., LaBumbard, B. C.,  McDonnell, N. B.,  Muñiz Torres, A. Y.,  Nordheim, C. L., Pfab, F., Richards-Zawacki, C. L., Rollins-Smith, L. A.,  Saenz, V.,  Voyles, J., Wetzel, D. P., Woodhams, D. C., and Briggs, Cheryl J. 2022.  Once a reservoir, always a reservoir? Seasonality affects the pathogen maintenance potential of amphibian hosts. *Ecology*, 103, e3759 [link](https://esajournals.onlinelibrary.wiley.com/doi/abs/10.1002/ecy.3759)
+
+- Wilber, M. Q., Yang, A., Boughton, R., Manlove, K. R., Miller, R. S., Pepin, K. M., Wittemyer, G. 2022. A model for leveraging animal movement to understand spatio-temporal disease dynamics. *Ecology Letters*, 25, 1290-1304 [link](https://onlinelibrary.wiley.com/doi/abs/10.1111/ele.13986)
+
+- Tompros, A., Dean, A. D., Fenton, A., Wilber, M. Q., Carter, E. D., Gray, M. J. 2022. Frequency‐dependent transmission of *Batrachochytrium salamandrivorans* in eastern newts. *Transboundary and Emerging Disease*, 69, 731-741 [link](https://onlinelibrary.wiley.com/doi/full/10.1111/tbed.14043)
 
 **2021**
 
-- Wilber, M. Q., Pfab, Ferdinand, Ohmer, M. E., Briggs, C. J. Integrating infection intensity into within- and between-host pathogen dynamics: implications for invasion and virulence evolution. *The American Naturalist*, 198, 661-677 [link](https://www.journals.uchicago.edu/doi/abs/10.1086/716914?journalCode=an)
+- Wilber, M. Q., Pfab, Ferdinand, Ohmer, M. E., Briggs, C. J. 2021. Integrating infection intensity into within- and between-host pathogen dynamics: implications for invasion and virulence evolution. *The American Naturalist*, 198, 661-677 [link](https://www.journals.uchicago.edu/doi/abs/10.1086/716914?journalCode=an)
 
 - Towe, A., Gray, M. J., Carter, E. D., Wilber, M. Q., Ossiboff, R. J., Ash, K.; Bohanon, M.; Bajo, B. A., Miller, D. L. 2021. *Batrachochytrium salamandrivorans* can devour more than salamanders. *Journal of Wildlife Diseases*, 57, 942-948 [link](https://bioone.org/journals/journal-of-wildlife-diseases/volume-57/issue-4/JWD-D-20-00214/Batrachochytrium-salamandrivorans-can-Devour-more-than-Salamanders/10.7589/JWD-D-20-00214.short)
-
-- Tompros, A., Dean, A. D., Fenton, A., Wilber, M. Q., Carter, E. D., Gray, M. J. Frequency‐dependent transmission of *Batrachochytrium salamandrivorans* in eastern newts. *Transboundary and Emerging Disease*, In press [link](https://onlinelibrary.wiley.com/doi/full/10.1111/tbed.14043)
 
 - Valenzuela-Sánchez, A., Wilber, M. Q., Canessa, S., Bacigalupe, L., Muths, Erin, Schmidt, Benedikt, Cunningham, A., Ozgul, A., Johnson, P., Cayuela, H. 2021. Why disease ecology needs life-history theory: a host perspective. *Ecology Letters*, 24, 876-890 [link](https://onlinelibrary.wiley.com/doi/full/10.1111/ele.13681)
 

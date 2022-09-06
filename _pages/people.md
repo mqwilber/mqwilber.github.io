@@ -37,7 +37,11 @@ I am broadly interested in incorporating complex host-parasite interactions into
 
 Email: jdemarch@utk.edu
 
+<<<<<<< HEAD
 ### Sarah Schrock (Masters Student)
+=======
+### Sarah Schrock (Master's Student)
+>>>>>>> cce9e22040c49627d5abef6a401e4cf0747acfaf
 
 <figure>
   <img src="/images/sarah_schrock.jpg" style="align:left;width:240px">
