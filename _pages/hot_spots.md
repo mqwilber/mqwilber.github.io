@@ -28,7 +28,7 @@ We are currently developing a framework known as "movement-based modeling of spa
 
 <img src="/images/movestir.jpg" style="float:right;width:500px">
 
-- Based on observed movements, which animal's pose the greatest risk for pathogen invasion?
+- Based on observed movements, which animals pose the greatest risk for pathogen invasion?
 - How do observed animal movements translate to hotspots on the landscape? Are these hotspots predictable based on characteristics of the environment?
 - For pathogens that can persist in the environment, what is the relative contribution of direct transmission and indirect transmission to infection risk?
 
@@ -37,6 +37,6 @@ and theoretical questions such as
 - How does asymmetry between individuals in infection risk lead to spatial bottlenecks in pathogen invasion?
 - How does transmission scale with density in empirically-observed, dynamic contact networks?
 
-We are currently using this framework to understand the key spatial and temporal drivers of chronic wasting disease risk and spread in white-tailed deer populations in Tennessee.
+We are currently using this framework to understand the spatial and temporal drivers pathogen transmission in various ungulate diseases.
 
 
