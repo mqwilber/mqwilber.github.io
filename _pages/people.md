@@ -8,7 +8,22 @@ permalink: /people/
 title: "People"
 ---
 
+## Principal Investigator
 
+### Mark Wilber, PhD
+<figure>
+  <img src="/images/mark-wilber-pic.jpg" style="float:left;width:240px">
+</figure>
+
+**Contact Info:**
+
+University of Tennessee Institute of Agriculture\
+Department of Forestry, Wildlife, and Fisheries\
+Knoxville, TN 37996-4500
+
+Office: 51D McCord Hall, 2640 Morgan Circle Drive\
+Phone: 865-974-8091\
+Email: mwilber@utk.edu
 
 ## Graduate Students
 
@@ -35,26 +50,13 @@ Email: sschroc2@vols.utk.edu
 
 ## Undergraduate Students
 
+### Cassidy Wallace
+
 <figure>
   <img src="/images/cassidy_wallace.jpg" style="align:left;width:240px">
 </figure>
 
 I'm an undergraduate student majoring in Animal Science with a minor in Wildlife and Fisheries.  I have always had a passion for animals, especially amphibians.  I’m thrilled to be on the team here researching disease in wildlife and am excited for all of the opportunities to come.
 
-## Principal Investigator
 
-### Mark Wilber, PhD
-<figure>
-  <img src="/images/mark-wilber-pic.jpg" style="float:left;width:240px">
-</figure>
-
-**Contact Info:**
-
-University of Tennessee Institute of Agriculture\
-Department of Forestry, Wildlife, and Fisheries\
-Knoxville, TN 37996-4500
-
-Office: 51D McCord Hall, 2640 Morgan Circle Drive\
-Phone: 865-974-8091\
-Email: mwilber@utk.edu
 
