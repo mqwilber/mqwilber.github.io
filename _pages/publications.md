@@ -11,7 +11,9 @@ title: "Publications"
 
 **2022**
 
-- Wilber, M. Q., Knapp, R. A., Smith, T. C., Briggs, C. J. 2022. Host density has limited effects on pathogen invasion, disease-induced declines, and within-host infection dynamics across a landscape of disease. *Journal of Animal Ecology*, Accepted
+- Wilber, M. Q., Knapp, R. A., Smith, T. C., Briggs, C. J. 2022. Host density has limited effects on pathogen invasion, disease-induced declines, and within-host infection dynamics across a landscape of disease. *Journal of Animal Ecology*, 91, 2451-2464 [link](https://besjournals.onlinelibrary.wiley.com/doi/abs/10.1111/1365-2656.13823)
+
+- Tompros, A., Wilber, M. Q., Fenton, A., Carter, E. D., Gray, M. J. 2022. Efficacy of plant-derived fungicides at inhibiting *Batrachochytrium salamandrivorans* growth. *Journal of Fungi*, 8, 1025 [link](https://www.mdpi.com/2309-608X/8/10/1025)
 
 - Olson, D. H., Gray, M. J., Pasmans, F., Grayer, L., Wilber, M. Q., Carter, E., D., Cunningham, A. A. 2022. The rising tide of herpetological disease science and management. *Herpetological Review*, in press
 
