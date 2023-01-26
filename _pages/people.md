@@ -18,7 +18,7 @@ title: "People"
 **Contact Info:**
 
 University of Tennessee Institute of Agriculture\
-Department of Forestry, Wildlife, and Fisheries\
+School of Natural Resources\
 Knoxville, TN 37996-4500
 
 Office: 51D McCord Hall, 2640 Morgan Circle Drive\
