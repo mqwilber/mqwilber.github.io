@@ -25,6 +25,18 @@ Office: 51D McCord Hall, 2640 Morgan Circle Drive\
 Phone: 865-974-8091\
 Email: mwilber@utk.edu
 
+## Post-docs
+
+### Juan Vargas Soto
+
+<figure>
+  <img src="/images/juan_vargas.jpg" style="align:left;width:240px">
+</figure>
+
+I am a Costa Rican ecologist and conservation biologist, and I am interested in how human-induced changes in the landscape influence transmission of parasites and pathogens between wild and domestic species, and what that means for parasite spread and persistence. To answer these questions, I use a diverse array of field and laboratory methods to learn more about my study systems, and link them with mathematical models to gain deeper understanding about them. I got a BS in Biology from the University of Costa Rica, where I was lucky to conduct field research in the most ridiculously beautiful places. I then did my Ph.D. in Ecology and Evolutionary Biology with Péter Molnár at the University of Toronto, studying the potential for environmental transmission of helminths between domestic dogs and wild cats in southern Costa Rica. Currently, I am developing and extending practical methods to analyze the influence of fine-scale spatial movement on parasite transmission. I like piña coladas, and getting caught in the (tropical) rain.
+
+Email: jvargass@utk.edu
+
 ## Graduate Students
 
 ### Joe DeMarchi (PhD Student)
