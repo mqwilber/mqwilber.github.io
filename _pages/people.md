@@ -70,5 +70,12 @@ Email: sschroc2@vols.utk.edu
 
 I'm an undergraduate student majoring in Animal Science with a minor in Wildlife and Fisheries.  I have always had a passion for animals, especially amphibians.  I’m thrilled to be on the team here researching disease in wildlife and am excited for all of the opportunities to come.
 
+### Emily McDavid
+
+<figure>
+  <img src="/images/emily_mcdavid.jpg" style="align:left;width:240px">
+</figure>
+
+I’m an undergraduate student in the Wildlife and Fisheries Management major and I’m minoring in Forestry and Watersheds. I hope to go to grad school after I graduate and my dream is to be a conservation biologist and work with endangered wildlife and fish species using genetics. I’m super excited to be part of the team and to learn more about amphibians and scientific research!
 
 
