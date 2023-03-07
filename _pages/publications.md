@@ -9,6 +9,12 @@ permalink: /publications/
 title: "Publications"
 ---
 
+**2023**
+
+- Yang, A., Wilber, M. Q., Manlove, K., Miller, R., Boughton, R., Beasley, J.,  Northrup, J., Vercauteren, K., Wittemyer, G., Pepin, K. Deriving spatially explicit direct and indirect interaction networks from animal movement data. Ecology and Evolution, In press. 
+
+-  Sheley, W.C., Gray, M. J., Wilber, M. Q., Cray, C., Carter, E. D., Miller, D. L. 2023. Electrolyte Imbalances and Dehydration Play a Key Role in Batrachochytrium salamandrivorans Chytridiomycosis. *Frontiers in Veterinary Science*, 9, 1055153 [link](https://www.frontiersin.org/articles/10.3389/fvets.2022.1055153/full)
+
 **2022**
 
 - Wilber, M. Q., Knapp, R. A., Smith, T. C., Briggs, C. J. 2022. Host density has limited effects on pathogen invasion, disease-induced declines, and within-host infection dynamics across a landscape of disease. *Journal of Animal Ecology*, 91, 2451-2464 [link](https://besjournals.onlinelibrary.wiley.com/doi/abs/10.1111/1365-2656.13823)
