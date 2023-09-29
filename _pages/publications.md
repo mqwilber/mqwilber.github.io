@@ -11,7 +11,14 @@ title: "Publications"
 
 **2023**
 
-- Yang, A., Wilber, M. Q., Manlove, K., Miller, R., Boughton, R., Beasley, J.,  Northrup, J., Vercauteren, K., Wittemyer, G., Pepin, K. Deriving spatially explicit direct and indirect interaction networks from animal movement data. Ecology and Evolution, In press. 
+- Gray M.J., Ossiboff R.J., Berger L, Bletz M.C., Carter E.D., DeMarchi J.A., Grayfer L., Lesbarrères D., Malagon D.A., Martel A., Miller D.L., Pasmans F., Skerratt L.F., Towe A.E., Wilber M.Q. 2023. One Health Approach to Globalizing, Accelerating, and Focusing Amphibian and Reptile Disease Research-Reflections and Opinions from the First Global Amphibian and Reptile Disease Conference. Emerging Infectious Disease, 29, 1-7 [link](https://europepmc.org/article/med/37735750)
+
+- Sheley, W.C.,  Cray, C., Wilber, M. Q., Carter, E. D., Kumar, Rajeev, Hardman, R. H., Towe, A. E., Gray, M. J., Miller, D. L. A Pilot Study Investigating Plasma Protein Electrophoresis in One Anuran and Six Urodelan Species. Journal of Wildlife Diseases, In press.
+
+- Gray, M. J, Carter, E. D., Piovia-Scott, J., Cusaac, J. P. W, Peterson, A. C., Whetstone, R. D., Hertz, A., Muniz-Torres, A. Y., Bletz, M. C., Woodhams, D. C., Romansic, J. M., Sutton, W. B., Sheley, W., Pessier, A., McCusker, C. D., Wilber, M. Q.,
+Miller, D. L. 2023. Broad host susceptibility of North American amphibian species to Batrachochytrium salamandrivorans suggests high invasion potential and biodiversity risk. Nature Communications 14, 3270 [link](https://www.nature.com/articles/s41467-023-38979-4)
+
+- Yang, A., Wilber, M. Q., Manlove, K., Miller, R., Boughton, R., Beasley, J.,  Northrup, J., Vercauteren, K., Wittemyer, G., Pepin, K. Deriving spatially explicit direct and indirect interaction networks from animal movement data. Ecology and Evolution, 12, e9774 [link](https://onlinelibrary.wiley.com/doi/full/10.1002/ece3.9774) 
 
 -  Sheley, W.C., Gray, M. J., Wilber, M. Q., Cray, C., Carter, E. D., Miller, D. L. 2023. Electrolyte Imbalances and Dehydration Play a Key Role in Batrachochytrium salamandrivorans Chytridiomycosis. *Frontiers in Veterinary Science*, 9, 1055153 [link](https://www.frontiersin.org/articles/10.3389/fvets.2022.1055153/full)
 
